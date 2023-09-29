@@ -28,10 +28,14 @@ Bora codar! 🚀
 )
 
 Ou entre em contato comigo por email: <a href = "isadora.caz@gmail.com" >isadora.caz@gmail.com<a/>.
+
 <br>
 <br>
 
- > "A necessidade é a mãe da invenção"
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IammCaz&show_icons=true&theme=tokyonight) 
+ <a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=cazfactory">
+  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=cazfactory" width="450" height="195" alt="Progresso 100 dias de codigo">
+</div>
 
 <br>
 <br>
@@ -41,12 +45,7 @@ Ou entre em contato comigo por email: <a href = "isadora.caz@gmail.com" >isadora
 <br>
 <br>
 
-<div>
- <a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=cazfactory">
-  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=cazfactory" width="450" height="195" alt="Progresso 100 dias de codigo">
-</div>
+ > "A necessidade é a mãe da invenção"
 
-<br>
-<br>
 
 

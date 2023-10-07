@@ -12,7 +12,7 @@ A acessibilidade na tecnologia é um grande combustível para mim. Estou dedican
 
 <br>
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,js,nodejs,postgres,github,vscode,html,css,mysql,php&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,php,postgres,mysql,vscode,github,postman,git,html,css&theme=dark)](https://skills.thijs.gg)
 
 <br>
 
@@ -40,7 +40,7 @@ Ou entre em contato comigo por email: <a href = "isadora.caz@gmail.com" >isadora
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IammCaz)](https://github.com/IammCaz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IammCaz&show_icons=true&theme=tokyonight)](https://github.com/IammCaz)
 
 <br>
 <br>

@@ -12,7 +12,7 @@ A acessibilidade na tecnologia é um grande combustível para mim. Estou dedican
 
 <br>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,nodejs,express,postgres,php,mysql,vscode,postman,git,github,gitlab&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,nodejs,express,postgres,mysql,php,vscode,postman,git,github,gitlab&theme=dark)](https://skills.thijs.gg)
 
 <br>
 

@@ -12,7 +12,7 @@ A acessibilidade na tecnologia é um grande combustível para mim. Estou dedican
 
 <br>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,nodejs,express,postgres,mysql,php,vscode,postman,git,github,bash,gitlab&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,nodejs,express,postgres,mysql,php,vscode,postman,git,bash&theme=dark)](https://skills.thijs.gg)
 
 <br>
 
@@ -24,8 +24,7 @@ Bora codar! 🚀
 
 # Minhas redes sociais:
 
-[![LinkedIn](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/isadoracaz/) [![Twitter](https://skills.thijs.gg/icons?i=twitter&theme=dark)](https://twitter.com/cazfactory) [![Instagram](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://instagram.com/isa.tempestade/
-)
+[![LinkedIn](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/isadoracaz/) [![Twitter](https://skills.thijs.gg/icons?i=twitter&theme=dark)](https://twitter.com/cazfactory) [![Discord](https://skills.thijs.gg/icons?i=discord&theme=dark)](https://discord.com/users/504123886707933184) [![Instagram](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://instagram.com/isa.tempestade/) 
 
 Ou entre em contato comigo por email: <a href = "isadora.caz@gmail.com" >isadora.caz@gmail.com<a/>.
 

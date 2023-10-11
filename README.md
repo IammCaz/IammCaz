@@ -32,7 +32,7 @@ Ou entre em contato comigo por email: <a href = "isadora.caz@gmail.com" >isadora
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IammCaz&show_icons=true&theme=tokyonight) 
+![Isadora's GitHub stats](https://github-readme-stats.vercel.app/api?username=IammCaz&show_icons=true&theme=tokyonight) 
  <a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=cazfactory">
   <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=cazfactory" width="450" height="195" alt="Progresso 100 dias de codigo">
 </div>
@@ -40,7 +40,7 @@ Ou entre em contato comigo por email: <a href = "isadora.caz@gmail.com" >isadora
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IammCaz&show_icons=true&theme=tokyonight)](https://github.com/IammCaz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IammCaz&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/IammCaz)
 
 <br>
 <br>
